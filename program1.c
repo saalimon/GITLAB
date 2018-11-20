@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
- printf("Program1 modified\n");
- return 0;
+ printf("Program1 modified eiei\n"); 
+return 0;
 }
